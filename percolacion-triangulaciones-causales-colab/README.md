@@ -44,3 +44,9 @@ pip install -r requirements.txt
 ## 📖 Referencias
 
 Basado en el trabajo de Cerda-Hernández, Yambartsev y Zohren (2017).
+
+## 🚀 Ejecutar en Google Colab
+
+Haz clic en el botón para abrir el notebook en Colab:
+
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tuusuario/percolacion-triangulaciones-causales/blob/main/notebooks/simulacion_arbol.ipynb)
